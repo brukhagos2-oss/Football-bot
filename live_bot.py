@@ -11,7 +11,7 @@ FOOTBALL_API_KEY = "1b2f0d6b181e418dbc0bd35aaaad2213"  # API-Sports (api-footbal
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
-# የሊጎች መለያ (API-Sports League IDs - 2026 Season)
+# የሊጎች መለያ (API-Sports League IDs - 2025 Season)
 LEAGUES = {
     "btn_pl": {"name": "🇬🇧 Premier League", "id": 39},
     "btn_laliga": {"name": "🇪🇸 La Liga", "id": 140},
